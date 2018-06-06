@@ -10,4 +10,4 @@ else
  puts "your name is long"
   end 
 end 
-name_lenght(value)
+name_lenght(name_length_random)

@@ -26,8 +26,8 @@
 
 def iterate_through_keys
 summer_olympics = {:Sydney => 2000, :Athens => 2004, :Beijing => 2008, :London => 2000, :Atlanta => 1996}
-puts iterate_through_keys = summer_olympics.key
+puts iterate_through_keys = summer_olympics.keys
 
 end
 
-iterate_through_keys
+puts iterate_through_keys

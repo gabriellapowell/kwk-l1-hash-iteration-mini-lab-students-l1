@@ -1,7 +1,7 @@
 puts "what is your name"
+name_length = gets.chomp.to_i 
 def name_length()
  puts "What is your name?"
-name_length = gets.chomp.to_i 
 if name_length is <= 3
   puts "your name is short"
   elsif name_length <= 7
